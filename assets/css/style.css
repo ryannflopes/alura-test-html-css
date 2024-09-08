@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;    
+    box-sizing: border-box;
+}
+
+div#nav{
+    background-color: #01080e;
+    height: 84px;
+    width: 100%;
+}
+
+div.god{
+    background-color: #093266;
+    height: 42px;
+    width: 100%;
+}
